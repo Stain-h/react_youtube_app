@@ -1,1 +1,1 @@
-# [inflearn] John_Ann - react_youtube_appCancel changes
+## [인프런] John_Ann - react_youtube_app
