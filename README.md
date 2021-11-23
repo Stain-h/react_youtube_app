@@ -11,6 +11,12 @@ server : npm i
 client :  cd client / npm i 
 ```
 
+## Config 
+```
+/server/config > dev.js 생성
+MongoDB Key 값 입력
+```
+
 ## Run test
 ```
 server : npm run start
