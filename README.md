@@ -22,7 +22,7 @@ server : npm run start
 client : cd client / npm run start
 ```
 
-## Stack
+## Version info
 ```
 <server />
 node 	 : v10.16.0
